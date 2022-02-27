@@ -1,0 +1,166 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The copie of the Lord Fitz-gerralds letter intercepted: discovering a bloody and most horrible plot to kill, burn, and spoyl all the Protestants, by the army of the rebels in Ireland. Which letter was sent to his cosen Sir Luke Fitzgerrald. Published for the kingdome to see the present horrid designes of the papists in Ireland.</title>
+            <author>Fitzgerald, Edward, fl. 1647.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84599</idno>
+            <idno type="STC">Wing F1071</idno>
+            <idno type="STC">Thomason E383_3</idno>
+            <idno type="STC">ESTC R201427</idno>
+            <idno type="EEBO-CITATION">99861938</idno>
+            <idno type="PROQUEST">99861938</idno>
+            <idno type="VID">114084</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84599)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114084)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 61:E383[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The copie of the Lord Fitz-gerralds letter intercepted: discovering a bloody and most horrible plot to kill, burn, and spoyl all the Protestants, by the army of the rebels in Ireland. Which letter was sent to his cosen Sir Luke Fitzgerrald. Published for the kingdome to see the present horrid designes of the papists in Ireland.</title>
+                  <author>Fitzgerald, Edward, fl. 1647.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Jane Coe.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "March 31".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fitzgerald, Edward, fl. 1647.</term>
+               <term>Protestants --  Ireland --  Early works to 1800.</term>
+               <term>Ireland --  History --  1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114084:1" rendition="simple:additions"/>
+            <p>THE COPIE OF THE Lord Fitz-gerralds LETTER Intercepted: DISCOVERING A Bloody and moſt horrible Plot to kill, burn, and ſpoyl all the Proteſtants, by the Army of the Rebels in IRELAND.</p>
+            <p>Which Letter was ſent to his Coſen Sir LUKE FITZ GERRALD.</p>
+            <p>Publiſhed for the Kingdome to ſee the preſent hor<g ref="char:EOLhyphen"/>rid deſignes of the Papiſts in Ireland.</p>
+            <p>
+               <add>March 31</add> 
+               <hi>LONDON,</hi> Printed by <hi>Jane Coe.</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:114084:2"/>
+            <pb facs="tcp:114084:2"/>
+            <head>The Copie of the <hi>Lord FITZ-GERRALDS Letter</hi> JNTERCEPTED. Diſcovering a bloody and moſt horrible plot to kill, burn, and ſpoyle the Engliſh Proteſtants, by the Army of the Rebels in Jreland.</head>
+            <head type="sub">To his worthy Coſen Sir LUKE FITZ-GERRALD, Knight.</head>
+            <opener>
+               <salute>NOBLE COZEN,</salute>
+            </opener>
+            <p>DIrections are given by the Councell and Congregation, for all Acts of Hoſtility towards the <hi>Engliſh:</hi> The Orders were given to
+<pb n="2" facs="tcp:114084:3"/>Generall Officers in private, and were da<g ref="char:EOLhyphen"/>ted the ſixteenth of December laſt.</p>
+            <p>Their directions were to kill, burne, and ſpoyle all that ever they could, all that did belong to the Engliſh quarters, or any that would ſpeak in their behalfe. Directions were ſent to Owen Roe the 18. of that Mo<g ref="char:EOLhyphen"/>neth, to make up all the Forces that hee could, and to march downe towards Trim. He cannot gather his men yet: for there are two Regiments of them in the County of Tiperary, and in the County of Lymricke: and they are now upon their march com<g ref="char:EOLhyphen"/>ming to him. He went out of Leaſe the 29. of that moneth, with what forces hee had there. Colonel Warren went from Kilkenny upon St Stephens day, and was commanded with 500. of his men (with all expedition) to march towardes Teighchrohan. Hugh Mac-Phelim was commanded to meet in the County of Kildare, with all the forces he had. A Councell are working at Kilkenny to have no Aſſembly; but I think the coun<g ref="char:EOLhyphen"/>trey will force them to it, if they ſtand out: for all the countrey is now weary of theſe
+<pb n="3" facs="tcp:114084:3"/>times; for they are all in a manner undone by Souldiers. And for all I ſee, the Officers and Souldiers in Generall Preſtons Army, are weary of theſe times; for they get no pay, but what they get by the ſpoyle of the countrey. The Nuncio did expect ſome moneyes over: ſome Frigots are come, but no moneyes. The Nuntio that was here formerly is ſent for to Rome, and I think no money comes till he comes there, nor then neither, as I underſtand from ſome. All our hope now is, from the King of Spaine, be<g ref="char:EOLhyphen"/>cauſe he hath agreed with all others, upon ſuch tearmes as he agreed with the Hollan<g ref="char:EOLhyphen"/>ders. Such conditions we muſt have from our King now. That is in every one of our Clergies mouths already. General Preſtons ſonne came out of Spain, and brought all the newes, that the Hollanders and Spaine have agreed: He came over and a great ma<g ref="char:EOLhyphen"/>ny Commanders, looking for Souldiers to carry over. Preſton hath given Col, Nap<g ref="char:EOLhyphen"/>per a Pattent to be Colonell. Generall Pre<g ref="char:EOLhyphen"/>ſton is little regarded now, for all his laſt Proteſtation. My Lord of Muskery is in
+<pb n="4" facs="tcp:114084:4"/>Munſter, and hath more men at command, then ever he had in his life: he will be here within theſe five or ſix dayes: hee ſent for mee to Ballyhohill, that I might repaire to Kilkenny to take Lodgings for him. And all Kilkinny, they are in that condition, that they doe not know which is beſt for them, to joyne with God or the Divell. The grea<g ref="char:EOLhyphen"/>teſt Libellers amongſt them now, have no other practice, but ſetting out books againſt the Nobility and beſt of the Kingdome. We doe not finde fault with any thing they ſet out againſt the Lord Marqueſſe, or his Par<g ref="char:EOLhyphen"/>ty; for we beleve they are naught. Some of us doe daily pray that they may mend, if they be ſo. We thought within theſe few dayes, to make the ſword our Governour; but now the caſe is altered: We are altoge<g ref="char:EOLhyphen"/>ther governed by Black-coats, and two lame Fellowes; one lame in his legge, and the other in his heart. If God do not mend them quickly, the Divell bleſſe them. Here is one Butler in the Councell, that hath made all the reſt of the Councell drunke. And not onely the Councell, but hath
+<pb n="5" facs="tcp:114084:4"/>made all the whole countrey ſo drunke, that they cannot ſee one another well, now. They are all looking upon the Fort of Dun<g ref="char:EOLhyphen"/>cannon, for feare Generall Preſton ſhould come neere it again: They will not ſuffer him to come neerer then Waterford, they do miſtruſt him every way, by reaſon of his Treaty with the enemy at Dublin. We heare that the enemy is hard by, and that they have taken away a great many of your cat<g ref="char:EOLhyphen"/>tell; I hope you have reliefe with you by this time. We do heare that all the Dilſons and ſome other Gentlemen in Meath, have joyned with the enemy: And that the Marqueſſe of Clanriccard is their chiefe Inſtrument. All the harme we can do them yet, is to curſe them, and to make them trai<g ref="char:EOLhyphen"/>tors in our Libels. God bleſſe you and yours from the Traytors whereſoever they are. I hope I ſhall meet with you at Kilkenny at the Aſſembly, if there bee any. There will be none if the aforeſaid two lame Fellowes can put it off: For hee that is lame in the legge, is afraid that his beſt legge will bee
+<pb n="6" facs="tcp:114084:5"/>made ſhorter: And hee that is lame in his Heart, is afraid that his heart will breake quite, by the preſſing multitude of the peo<g ref="char:EOLhyphen"/>ples voyces. God ſend us quietneſſe, and cruſh our enemies. I reſt,</p>
+            <closer>
+               <dateline>Ballihohill <date>the third of this inſtant March, 1646.</date>
+               </dateline>
+               <signed>Your loving friend and kinſ<g ref="char:EOLhyphen"/>man to command, <hi>EDWARD FITZ-GERRALD.</hi>
+               </signed>
+            </closer>
+            <postscript>
+               <p>The names of the chiefe actors in the de<g ref="char:EOLhyphen"/>ſign carried on by the <hi>Iriſh</hi> Rebels, are,
+<list>
+                     <item>Ioannes Baptiſta, Archiepiſcopus Firmanus.<lb/> Nuncius Apoſtolicus.</item>
+                     <item>Ioan. Clonfert,</item>
+                     <item>Ever Cloghe<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>enſis Lowthe.</item>
+                     <item>Fra. Pat. Plunket,</item>
+                     <item>Alex. Mac Donnel,</item>
+                     <item>Nich. Plunket,</item>
+                     <item>Rob. Lynch,</item>
+                     <item>Pierce Butler.</item>
+                  </list>
+               </p>
+            </postscript>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
